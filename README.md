@@ -63,7 +63,8 @@ Developed by: RegisterNumber:24901168
 
 **Output Timing Waveform**
 
-![Screenshot (132)](https://github.com/user-attachments/assets/bbc83b27-3053-407c-a951-838df7c37867)
+![image](https://github.com/user-attachments/assets/ea77b19d-cdf6-4b5a-96b8-9715377b0737)
+
 
 
 **Result:**
